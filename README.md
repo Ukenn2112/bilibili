@@ -5,7 +5,7 @@ http://47.95.121.139/tv/
 ## 说明
 修改**bilibili.php**里面的这串数字，此为本人bilibili uid，应当换成各位同学的uid
 <br>
-其次打开bilibili，登入后进入个人空间
+其次打开bilibili，登入后进入个人空间【不要忘记把番剧设置成公开~】
 <br>
 ![1583822762_1_.jpg](https://i.loli.net/2020/03/10/9Efl7u5oa3n6N1i.png)<br><br>
 **箭头处即你的UID**<br><br>
